@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//RemoteApi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/ical/
+ RubiABQ:+Rubyists+in+Albuquerque/
+X-WR-CALNAME:Events - RubiABQ: Rubyists in Albuquerque
+BEGIN:VTIMEZONE
+TZID:America/Denver
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130227T180000
+DTEND;TZID=America/Denver:20130227T210000
+STATUS:CONFIRMED
+SUMMARY:4th Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, February 27 at 
+ 6:00 PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code 
+ and/or tests\, some days we'll just socialize. In the early days\, peopl
+ e showed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Alb
+ uquerque/events/102252082/
+CLASS:PUBLIC
+CREATED:20120822T225615Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/102252082/
+LAST-MODIFIED:20121120T204528Z
+UID:event_dqwkhdyrdbkc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130313T180000
+DTEND;TZID=America/Denver:20130313T210000
+STATUS:CONFIRMED
+SUMMARY:2nd Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, March 13 at 6:0
+ 0 PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and
+ /or tests\, some days we'll just socialize. In the early days\, people s
+ howed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuqu
+ erque/events/qprbtcyrfbrb/
+CLASS:PUBLIC
+CREATED:20120412T004115Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/qprbtcyrfbrb/
+LAST-MODIFIED:20121226T224351Z
+UID:event_qprbtcyrfbrb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130327T180000
+DTEND;TZID=America/Denver:20130327T210000
+STATUS:CONFIRMED
+SUMMARY:4th Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, March 27 at 6:0
+ 0 PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and
+ /or tests\, some days we'll just socialize. In the early days\, people s
+ howed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuqu
+ erque/events/dqwkhdyrfbkc/
+CLASS:PUBLIC
+CREATED:20120822T225615Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/dqwkhdyrfbkc/
+LAST-MODIFIED:20121120T204528Z
+UID:event_dqwkhdyrfbkc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130410T180000
+DTEND;TZID=America/Denver:20130410T210000
+STATUS:CONFIRMED
+SUMMARY:2nd Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, April 10 at 6:0
+ 0 PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and
+ /or tests\, some days we'll just socialize. In the early days\, people s
+ howed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuqu
+ erque/events/qprbtcyrgbnb/
+CLASS:PUBLIC
+CREATED:20120412T004115Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/qprbtcyrgbnb/
+LAST-MODIFIED:20121226T224351Z
+UID:event_qprbtcyrgbnb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130424T180000
+DTEND;TZID=America/Denver:20130424T210000
+STATUS:CONFIRMED
+SUMMARY:4th Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, April 24 at 6:0
+ 0 PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and
+ /or tests\, some days we'll just socialize. In the early days\, people s
+ howed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuqu
+ erque/events/dqwkhdyrgbgc/
+CLASS:PUBLIC
+CREATED:20120822T225615Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/dqwkhdyrgbgc/
+LAST-MODIFIED:20121120T204528Z
+UID:event_dqwkhdyrgbgc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130508T180000
+DTEND;TZID=America/Denver:20130508T210000
+STATUS:CONFIRMED
+SUMMARY:2nd Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, May 8 at 6:00 P
+ M\n\nLet's chat about Ruby and Rails.  Some days we'll write code and/or
+  tests\, some days we'll just socialize. In the early days\, people show
+ ed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuquerq
+ ue/events/qprbtcyrhblb/
+CLASS:PUBLIC
+CREATED:20120412T004115Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/qprbtcyrhblb/
+LAST-MODIFIED:20121226T224351Z
+UID:event_qprbtcyrhblb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130522T180000
+DTEND;TZID=America/Denver:20130522T210000
+STATUS:CONFIRMED
+SUMMARY:4th Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, May 22 at 6:00 
+ PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and/o
+ r tests\, some days we'll just socialize. In the early days\, people sho
+ wed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuquer
+ que/events/dqwkhdyrhbdc/
+CLASS:PUBLIC
+CREATED:20120822T225615Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/dqwkhdyrhbdc/
+LAST-MODIFIED:20121120T204528Z
+UID:event_dqwkhdyrhbdc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130612T180000
+DTEND;TZID=America/Denver:20130612T210000
+STATUS:CONFIRMED
+SUMMARY:2nd Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, June 12 at 6:00
+  PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and/
+ or tests\, some days we'll just socialize. In the early days\, people sh
+ owed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuque
+ rque/events/qprbtcyrjbqb/
+CLASS:PUBLIC
+CREATED:20120412T004115Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/qprbtcyrjbqb/
+LAST-MODIFIED:20121226T224351Z
+UID:event_qprbtcyrjbqb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130626T180000
+DTEND;TZID=America/Denver:20130626T210000
+STATUS:CONFIRMED
+SUMMARY:4th Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, June 26 at 6:00
+  PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and/
+ or tests\, some days we'll just socialize. In the early days\, people sh
+ owed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuque
+ rque/events/dqwkhdyrjbjc/
+CLASS:PUBLIC
+CREATED:20120822T225615Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/dqwkhdyrjbjc/
+LAST-MODIFIED:20121120T204528Z
+UID:event_dqwkhdyrjbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130710T180000
+DTEND;TZID=America/Denver:20130710T210000
+STATUS:CONFIRMED
+SUMMARY:2nd Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, July 10 at 6:00
+  PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and/
+ or tests\, some days we'll just socialize. In the early days\, people sh
+ owed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuque
+ rque/events/qprbtcyrkbnb/
+CLASS:PUBLIC
+CREATED:20120412T004115Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/qprbtcyrkbnb/
+LAST-MODIFIED:20121226T224351Z
+UID:event_qprbtcyrkbnb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20130214T040404Z
+DTSTART;TZID=America/Denver:20130724T180000
+DTEND;TZID=America/Denver:20130724T210000
+STATUS:CONFIRMED
+SUMMARY:4th Wednesday of the Month RubiABQ meeting
+DESCRIPTION:RubiABQ: Rubyists in Albuquerque\nWednesday\, July 24 at 6:00
+  PM\n\nLet's chat about Ruby and Rails.  Some days we'll write code and/
+ or tests\, some days we'll just socialize. In the early days\, people sh
+ owed up because...\n\nDetails: http://www.meetup.com/Rubyists-in-Albuque
+ rque/events/dqwkhdyrkbgc/
+CLASS:PUBLIC
+CREATED:20120822T225615Z
+GEO:35.15;-106.56
+URL:http://www.meetup.com/Rubyists-in-Albuquerque/events/dqwkhdyrkbgc/
+LAST-MODIFIED:20121120T204528Z
+UID:event_dqwkhdyrkbgc@meetup.com
+END:VEVENT
+END:VCALENDAR

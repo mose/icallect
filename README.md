@@ -3,7 +3,9 @@ Icallect
 
 iCal + Collect
 
-This ruby script is designed for watching a list of webcal (ical) feeds and produces various outputs. It is intended to run in a cronjob or any kind of scheduling system like resque or sidekiq.
+This ruby script is designed for watching a list of webcal (ical) feeds 
+and produces various outputs. It is intended to run in a cronjob or any 
+kind of scheduling system like resque or sidekiq.
 
 Install
 --------------
@@ -13,15 +15,18 @@ For now just clone the project and
     git clone git@github.com:mose/icallect
     cd icallect
     bundle install
-    rake cal:setup
 
 Commands
 --------------
 
-    rake cal:setup     # change the setup
     rake cal:add <url> # add a feed with a webcal url
     rake cal:list      # list feeds
     rake cal:run       # run the collection task
+
+Configuration
+---------------
+
+icallect is going to create a config file at first run in ~/.config/icallect/
 
 Contribute
 -----------------

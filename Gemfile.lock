@@ -1,0 +1,42 @@
+PATH
+  remote: ../icalendar
+  specs:
+    icalendar (1.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.1.0)
+    coderay (1.0.8)
+    daemons (1.1.9)
+    method_source (0.8.1)
+    minitest (4.6.0)
+    minitest-ci (2.4.0)
+      minitest (>= 3.0, < 5.0)
+    multi_json (1.6.0)
+    pry (0.9.12)
+      coderay (~> 1.0.5)
+      method_source (~> 0.8)
+      slop (~> 3.4)
+    rake (10.0.3)
+    simplecov (0.7.1)
+      multi_json (~> 1.0)
+      simplecov-html (~> 0.7.1)
+    simplecov-html (0.7.1)
+    simplecov-rcov (0.2.3)
+      simplecov (>= 0.4.1)
+    slop (3.4.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  daemons
+  icalendar!
+  minitest
+  minitest-ci
+  pry
+  rake
+  simplecov
+  simplecov-rcov
