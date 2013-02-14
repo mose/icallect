@@ -1,5 +1,6 @@
-PATH
-  remote: ../icalendar
+GIT
+  remote: https://github.com/mose/icalendar.git
+  revision: 0da2c2c76a79e5382fffdc49678c29e5ad7ce687
   specs:
     icalendar (1.2)
 
