@@ -8,7 +8,7 @@ describe "Icallect::Feed" do
   it "load file" do
     feed = Icallect::Feed.new
     f = feed.load File.expand_path("../sample/webcal_simple.ics",__FILE__)
-    ap f
+    #ap f
   end
 
 end
