@@ -1,2 +1,4 @@
 feeds.yml
 logs/*
+coverage/
+test/
