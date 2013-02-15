@@ -5,11 +5,12 @@ module Icallect
 
     def initialize
       @url = nil
+      @events = []
     end
 
     def load(file)
       f = File.open file
-      meat = Icalendar.parse f
+      Icalendar.parse f
     end
   
   end
